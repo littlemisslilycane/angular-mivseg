@@ -1,3 +1,3 @@
 # angular-mivseg
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-mivseg)
+Tour of Heroes Angular Project
